@@ -1,0 +1,4 @@
+{
+  "latest": "2.0",
+  "updateurl": "https://cdn.discordapp.com/attachments/535447222930767883/734151102530060328/clear_script.lua"
+}
